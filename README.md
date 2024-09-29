@@ -10,7 +10,7 @@
 --- 
 
 ## Objetivos propuestos
-La presente práctica es una práctica de introducción a la asignatura Sistemas y Tecnología Web: Servidor que tiene los siguientes objetivos:
+Esta es una práctica de introducción a la asignatura Sistemas y Tecnología Web: Servidor que tiene los siguientes objetivos:
 
 * Mejorar las competencias transversales de los estudiantes de la asignatura.
 * Establecer el flujo de trabajo habitual de la asignatura.
