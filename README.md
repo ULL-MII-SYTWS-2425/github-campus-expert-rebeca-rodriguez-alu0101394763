@@ -10,7 +10,7 @@
 --- 
 
 ## Objetivos propuestos
-Esta es una práctica de introducción a la asignatura Sistemas y Tecnología Web: Servidor que tiene los siguientes objetivos:
+Esta es una práctica de introducción a la asignatura Sistemas y Tecnología Web: Servidor, que tiene los siguientes objetivos:
 
 * Mejorar las competencias transversales de los estudiantes de la asignatura.
 * Establecer el flujo de trabajo habitual de la asignatura.
@@ -29,7 +29,8 @@ He rellenado el [cuestionario con la relación GitHub-Alu](https://docs.google.c
 
 ### Ser miembro de la comunidad Currents/G+
 Google Currents, antes conocido como Google+, es una red social que permite la comunicación interna de una empresa.
-Lamentablemente, [Google ha desactivado esta red social](https://support.google.com/chat/answer/14310347?hl=es), por lo que ya no es posible hacerse miembro de ella.
+
+Lamentablemente, [Google ha desactivado esta plataforma](https://support.google.com/chat/answer/14310347?hl=es), por lo que ya no es posible hacerse miembro de ella.
 
 ### Nombre del equipo correcto
 Para poder aceptar esta tarea, primero he tenido que darme de alta en la organización [`ULL-MII-SYTWS-2425`](https://github.com/ULL-MII-SYTWS-2425), para lo que he tenido que crear un equipo.
@@ -38,10 +39,10 @@ El nombre de los equipos debe tener el formato: `nombre-apellido1-apellido2-aluX
 * `nombre`, `apellido1` y `apellido2` corresponden al nombre, primer apellido y segundo apellido del estudiante, respectivamente.
 * `aluXXXXXXXXXX` corresponde a la Credencial Institucional del estudiante.
 
-El nombre de mi equipo es `rebeca-rodriguez-alu0101394763`. Me vi obligada a omitir mi segundo apellido debido a que la plataforma me mostró un error porque el nombre `rebeca-rodriguez-rodriguez-alu0101394763` tenía demasiados caracteres.
+En mi caso, el nombre de mi equipo debería ser `rebeca-rodriguez-rodriguez-alu0101394763`, pero al intentar introducir este nombre, la página me dio error porque tenía demasiados caracteres. Es por ello que tuve que omitir mi segundo apellido, de forma que mi equipo tiene el nombre `rebeca-rodriguez-alu0101394763`.
 
 ### Solicitud de Backpack
-GitHub Student Developer Pack es un conjunto de beneficios destinados a estudiantes universitarios. Incluye, por ejemplo, acceso gratuito a diferentes plataformas de cursos que normalmente son de pago, además de acceso a herramientas utilizadas por profesionales, entre otros.
+GitHub Student Developer Pack es un conjunto de beneficios destinados a estudiantes universitarios. Incluye, por ejemplo, acceso gratuito a diferentes plataformas de cursos que normalmente son de pago, además de a herramientas utilizadas por profesionales, entre otros.
 
 Para solicitar acceso a GitHub Student Developer Pack, he llevado a cabo los siguientes pasos:
 1. **Acceso al portal de GitHub Student Developer Pack.** A través de este portal, se puede comenzar la solicitud pulsando el botón _Sign up for Student Developer Pack_.
@@ -52,7 +53,7 @@ Para solicitar acceso a GitHub Student Developer Pack, he llevado a cabo los sig
     * Mi rol educativo. En este caso, estudiante.
     * El nombre de mi centro educativo. En este caso, Universidad de La Laguna. 
 
-    > El campo para el nombre del centro educativo fue autocompletado, dado que mi cuenta de GitHub está asociada a mi correo institucional de la ULL
+> El campo para el nombre del centro educativo fue autocompletado, dado que mi cuenta de GitHub está asociada a mi correo institucional de la ULL
 
 ![Paso 2](/img/backpack/Paso_2.png)
 
