@@ -68,7 +68,7 @@ Para solicitar acceso a GitHub Student Developer Pack, he llevado a cabo los sig
 Se ha creado un Kanban Board en el que se han recogido los requisitos de la práctica inicialmente en la columna _To do_.
 A medida que se ha ido trabajando en la práctica, estos requisitos se han ido moviendo de columna a _In progress_, y posteriormente a _Done_.
 
-![Kanban Board](/img/kanban.png)
+
 
 ### Instalación de GitHub CLI
 GitHub CLI es una herramienta de código abierto que permite utilizar GitHub desde la línea de comandos del equipo.
