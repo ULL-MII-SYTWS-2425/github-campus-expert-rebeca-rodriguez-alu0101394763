@@ -41,7 +41,10 @@ El nombre de los equipos debe tener el formato: `nombre-apellido1-apellido2-aluX
 El nombre de mi equipo es `rebeca-rodriguez-alu0101394763`. Me vi obligada a omitir mi segundo apellido debido a que la plataforma me mostró un error porque el nombre `rebeca-rodriguez-rodriguez-alu0101394763` tenía demasiados caracteres.
 
 ### Solicitud de Backpack
-GitHub Student Developer Pack es (describir)
+GitHub Student Developer Pack es un conjunto de beneficios destinados a estudiantes universitarios. Incluye, por ejemplo, acceso gratuito a diferentes plataformas de cursos que normalmente son de pago, además de acceso a herramientas utilizadas por profesionales, entre otros.
+
+Para solicitar acceso a este portal, he realizado los siguientes pasos:
+1. 
 
 En el directorio [backpack](/backpack/) se pueden ver imágenes del proceso de solicitud de mi BackPack paso a paso.
 
